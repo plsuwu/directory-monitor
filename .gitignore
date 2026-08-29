@@ -1,3 +1,5 @@
 build/
 .direnv/
+.cache/
+
 compile_commands.json
